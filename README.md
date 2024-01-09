@@ -1,1 +1,1 @@
-# 100_days_database
+# 100_days_SQL
