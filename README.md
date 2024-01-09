@@ -1,7 +1,6 @@
 # 100_days_SQL
 
-<div style= "background:black; hight:500px; width:600px;">
-<img style="hight:200px; width:200px; margin: 100px; " src="https://letmefail.com/wp-content/uploads/2023/03/sql-1536x739.jpeg"> </img></div>
+<img style="hight:735px; width:535px;" src="https://letmefail.com/wp-content/uploads/2023/03/sql-1536x739.jpeg"> </img>
 <p>
 <b>SQL The Structured Query Language,</b> serves as the go-to programming language for handling and controlling data within relational database management systems (RDBMS).
 
