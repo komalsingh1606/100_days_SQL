@@ -9,5 +9,5 @@ With SQL, you wield the power to  <b>create, modify, and remove database tables,
 
 Moreover, SQL enables the <b>retrieval of data through queries</b> that can filter, sort, and aggregate information, allowing for precise manipulation based on specific criteria.</p>
 
-
+<p> SQL is a powerful and flexible language that can handle large amounts of data and complex queries. It is widely used in industries such as finance, healthcare, e-commerce, and many others for managing and analyzing data. </p>
 
