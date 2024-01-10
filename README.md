@@ -12,3 +12,5 @@ Moreover, SQL enables the <b>retrieval of data through queries</b> that can filt
 
 <p> SQL is a powerful and flexible language that can handle large amounts of data and complex queries. It is widely used in industries such as finance, healthcare, e-commerce, and many others for managing and analyzing data. </p>
 
+<b>Day_1</b>
+
